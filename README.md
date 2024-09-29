@@ -1,2 +1,3 @@
 # htmlodev3
-HTML etiketleri kullanılarak yapılan web sitesi
+Henüz CSS'e giriş yapmadığımdan oluşturulan site yalnızca HTML etiketleri kullanılarak oluşturulmuştur. <br>
+Site görseli:
